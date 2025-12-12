@@ -1,26 +1,43 @@
-## Hi there 👋, I'm Dagimawi Tamrat
+## 🚀 Dagimawi Tamrat | Incoming Full Stack Developer
 
-I'm a **Computer Science graduate** and an **aspiring Software Engineer** passionate about building scalable and user-friendly applications. I love solving challenging problems and continuously improving my skills in software development.  
+Hi there 👋! I'm a recent Computer Science graduate passionate about building robust, scalable applications. My experience in a **Medical SaaS environment** and my commitment to technical community leadership (GDSC Co-President) define my approach to software engineering.
 
-### 🚀 About Me  
+---
 
-- 🎓 **Recent Computer Science graduate** (Dec 2024) from UMass Boston  
-- 💻 **Aspiring Software Engineer** with a strong foundation in Python, Java, and web development  
-- 🔍 **Actively seeking** full-time Software Engineering opportunities
-- 🏗 **Building:** A website for a local soccer club and previously built a website for a decor business  
-- ⚡ **Exploring:** Backend development, cloud technologies, and system design  
-- 🏆 **Goal:** Master coding interviews and secure a role at a top tech company  
+### 💻 Professional & Technical Highlights
 
-### 🛠️ Tech Stack  
-- **Languages:** Python, Java, JavaScript, HTML, CSS  
-- **Web Development:** React, Node.js 
-- **Databases:** SQL
-- **Version Control:** Git, GitHub  
-- **Tools:** VS Code
+I focus on developing full-stack solutions, specializing in bringing complex applications from concept to deployment.
 
-  ### 📫 Let's Connect  
-- **LinkedIn:** https://www.linkedin.com/in/dagimawi-tamrat/
-- **Portfolio:** https://dagimawi7.github.io/Portfolio_website/
-- **Email:** 20dtamrat@gmail.com
+* **Incoming Full Stack Developer** actively seeking full-time opportunities starting December 2024.
+* **Former Front-End Intern** at **Peek** (Medical SaaS Startup), where I gained direct experience in professional software development life cycles and contributed to user-facing features.
+* **Technical Leader:** Served as **Co-President of the Google Developer Student Club (GDSC)** at UMass Boston, organizing and leading technical workshops for students.
+* **Community & Recognition:** Honored as a **ColorStack Fellow** and **Propel2Excel Fellow**, reflecting a strong commitment to learning and mentorship in tech.
+* **Project Focus:** Currently building and deploying a complete Ecommerce website, demonstrating proficiency in full-stack implementation.
 
-I'm always open to collaborating on exciting projects and learning from fellow developers. Feel free to reach out!  
+### 🛠️ Core Technical Toolkit
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, Java, JavaScript, HTML, CSS, C++ |
+| **Web Frameworks** | **React**, **Node.js**, Express.js |
+| **Databases** | SQL, MongoDB |
+| **Tools & Version Control** | Git, GitHub, VS Code |
+| **Exploring** | Backend Development, Cloud Technologies, and System Design |
+
+### 📂 Featured Projects (Impactful Full-Stack Development)
+
+| Project Name | Technical Contribution & Quantifiable Impact |
+| :--- | :--- |
+| **Weather Data Platform (Python ETL)** | Engineered a multi-platform desktop application integrating a **Python** backend with a **React** frontend for fetching, caching, and validating weather data. [cite_start]Implemented a robust **GitHub Actions CI/CD pipeline** for automated cross-platform build and deployment (Windows, Linux, macOS). [cite: 24, 25, 26] |
+| **Full-Stack E-commerce System** | Designed and built core backend services handling **data modeling** for products, users, and orders, focusing on scalable system architecture. [cite_start]Created workflow automation scripts and explored **Azure deployment practices** to simulate enterprise-level cloud infrastructure. [cite: 28, 29, 30] |
+| **Hi5 Decor & Rental Website** | Developed all user-facing components using **semantic HTML, structured CSS, and vanilla JavaScript** based on client specifications. [cite_start]Managed the entire **website deployment and hosting environment setup** for the production environment, improving code modularity and maintainability. [cite: 19, 20, 21] |
+
+---
+
+### 📫 Let's Connect
+
+I'm always open to discussing full-time roles, collaborative projects, or innovative tech solutions.
+
+* **LinkedIn:** [https://www.linkedin.com/in/dagimawi-tamrat/](https://www.linkedin.com/in/dagimawi-tamrat/)
+* **Portfolio:** [https://dagimawi7.github.io/Portfolio_website/]([https://dagimawi7.github.io/Portfolio_website/](https://weather-application-six-blush.vercel.app/))
+* **Email:** `20dtamrat@gmail.com`
