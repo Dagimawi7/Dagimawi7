@@ -28,9 +28,9 @@ I focus on developing full-stack solutions, specializing in bringing complex app
 
 | Project Name | Technical Contribution & Quantifiable Impact |
 | :--- | :--- |
-| **Weather Data Platform (Python ETL)** | Engineered a multi-platform desktop application integrating a **Python** backend with a **React** frontend for fetching, caching, and validating weather data. [cite_start]Implemented a robust **GitHub Actions CI/CD pipeline** for automated cross-platform build and deployment (Windows, Linux, macOS). [cite: 24, 25, 26] |
-| **Full-Stack E-commerce System** | Designed and built core backend services handling **data modeling** for products, users, and orders, focusing on scalable system architecture. [cite_start]Created workflow automation scripts and explored **Azure deployment practices** to simulate enterprise-level cloud infrastructure. [cite: 28, 29, 30] |
-| **Hi5 Decor & Rental Website** | Developed all user-facing components using **semantic HTML, structured CSS, and vanilla JavaScript** based on client specifications. [cite_start]Managed the entire **website deployment and hosting environment setup** for the production environment, improving code modularity and maintainability. [cite: 19, 20, 21] |
+| **Weather Data Platform (Python ETL)** | Engineered a multi-platform desktop application integrating a **Python** backend with a **React** frontend for fetching, caching, and validating weather data. Implemented a robust **GitHub Actions CI/CD pipeline** for automated cross-platform build and deployment (Windows, Linux, macOS). |
+| **Full-Stack E-commerce System** | Designed and built core backend services handling **data modeling** for products, users, and orders, focusing on scalable system architecture. [cite_start]Created workflow automation scripts and explored **Azure deployment practices** to simulate enterprise-level cloud infrastructure. |
+| **Hi5 Decor & Rental Website** | Developed all user-facing components using **semantic HTML, structured CSS, and vanilla JavaScript** based on client specifications. [cite_start]Managed the entire **website deployment and hosting environment setup** for the production environment, improving code modularity and maintainability. |
 
 ---
 
@@ -39,5 +39,5 @@ I focus on developing full-stack solutions, specializing in bringing complex app
 I'm always open to discussing full-time roles, collaborative projects, or innovative tech solutions.
 
 * **LinkedIn:** [https://www.linkedin.com/in/dagimawi-tamrat/](https://www.linkedin.com/in/dagimawi-tamrat/)
-* **Portfolio:** [https://dagimawi7.github.io/Portfolio_website/]([https://dagimawi7.github.io/Portfolio_website/](https://weather-application-six-blush.vercel.app/))
+* **Portfolio:** [https://my-portfilio-nine.vercel.app/](https://my-portfilio-nine.vercel.app/)
 * **Email:** `20dtamrat@gmail.com`
