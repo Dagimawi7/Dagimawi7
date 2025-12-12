@@ -1,6 +1,6 @@
 ## 🚀 Dagimawi Tamrat | Incoming Full Stack Developer
 
-Hi there 👋! I'm a recent Computer Science graduate passionate about building robust, scalable applications. My experience in a **Medical SaaS environment** and my commitment to technical community leadership (GDSC Co-President) define my approach to software engineering.
+Hi there 👋! I'm a recent Computer Science graduate (Dec 2024) passionate about building robust, scalable applications. My experience in a **Medical SaaS environment** and my commitment to technical community leadership (GDSC Co-President) define my approach to software engineering.
 
 ---
 
@@ -9,29 +9,27 @@ Hi there 👋! I'm a recent Computer Science graduate passionate about building 
 I focus on developing full-stack solutions, specializing in bringing complex applications from concept to deployment.
 
 * **Incoming Full Stack Developer** actively seeking full-time opportunities starting December 2024.
-* **Former Front-End Intern** at **Peek** (Medical SaaS Startup), where I gained direct experience in professional software development life cycles and contributed to user-facing features.
-* **Technical Leader:** Served as **Co-President of the Google Developer Student Club (GDSC)** at UMass Boston, organizing and leading technical workshops for students.
-* **Community & Recognition:** Honored as a **ColorStack Fellow** and **Propel2Excel Fellow**, reflecting a strong commitment to learning and mentorship in tech.
-* **Project Focus:** Currently building and deploying a complete Ecommerce website, demonstrating proficiency in full-stack implementation.
+* **Former Front-End Intern** at **Peek** (Medical SaaS Startup), where I engineered and shipped data-driven features for a medical SaaS platform.
+* **Technical Leader:** Served as **Club Co-President of the Google Developer Student Club (GDSC)** at UMass Boston, leading workshops and hackathons that resulted in a **40% increase in active membership**.
+* **Core Skills:** Proficient in **Python, JavaScript, TypeScript, Java**, and experienced with **Node.js, React, REST APIs**, and **CI/CD pipelines**.
+* **Methodologies:** Experienced collaborating within **Agile sprints** and implementing **Modular Architecture**.
 
 ### 🛠️ Core Technical Toolkit
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, Java, JavaScript, HTML, CSS, C++ |
-| **Web Frameworks** | **React**, **Node.js**, Express.js |
-| **Databases** | SQL, MongoDB |
-| **Tools & Version Control** | Git, GitHub, VS Code |
-| **Exploring** | Backend Development, Cloud Technologies, and System Design |
+| **Languages** | Python, JavaScript, TypeScript, Java, C++, Bash, PowerShell |
+| **Backend & Web** | **Node.js**, **Express**, **REST APIs**, microservices, React, Secure Coding |
+| **Cloud & Systems** | CI/CD pipelines, GitHub Actions, Git, Azure deployment practices |
+| **Methodologies** | Modular Architecture, Agile/Scrum, System Debugging, Troubleshooting |
 
 ### 📂 Featured Projects (Impactful Full-Stack Development)
 
 | Project Name | Technical Contribution & Quantifiable Impact |
 | :--- | :--- |
-| **Weather Data Platform (Python ETL)** | Engineered a multi-platform desktop application integrating a **Python** backend with a **React** frontend for fetching, caching, and validating weather data. Implemented a robust **GitHub Actions CI/CD pipeline** for automated cross-platform build and deployment (Windows, Linux, macOS). |
-| **Full-Stack E-commerce System** | Designed and built core backend services handling **data modeling** for products, users, and orders, focusing on scalable system architecture. 
-|Created workflow automation scripts and explored **Azure deployment practices** to simulate enterprise-level cloud infrastructure. |
-| **Hi5 Decor & Rental Website** | Developed all user-facing components using **semantic HTML, structured CSS, and vanilla JavaScript** based on client specifications. Managed the entire **website deployment and hosting environment setup** for the production environment, improving code modularity and maintainability. |
+| **Weather Data Platform (Python ETL)** | Developed a modular **PyQt5** desktop application integrating a **Python** backend with a **React** frontend. Engineered a robust **GitHub Actions CI/CD pipeline** to automatically build, package, and deploy the application across Windows, Linux, and macOS. Built cross-platform installers using **PyInstaller** and automated setup scripts using **Bash/PowerShell**. **Live Demo:** [https://weather-application-six-blush.vercel.app/](https://weather-application-six-blush.vercel.app/) |
+| **Full-Stack E-commerce System** | Designed and built backend services handling core **data modeling** for products, users, and orders, focusing on system architecture. Created **workflow automation scripts** for deployment, data seeding, and environment configuration. Explored Python-based data pipelines and **Azure deployment practices** to simulate enterprise-level cloud infrastructure. |
+| **Hi5 Decor & Rental Website** | Developed all user-facing components using **semantic HTML, structured CSS, and vanilla JavaScript** based on client specifications. Managed the entire **website deployment and hosting environment setup** for the production environment. Improved **code modularity and maintainability** through disciplined separation of concerns. |
 
 ---
 
@@ -41,4 +39,5 @@ I'm always open to discussing full-time roles, collaborative projects, or innova
 
 * **LinkedIn:** [https://www.linkedin.com/in/dagimawi-tamrat/](https://www.linkedin.com/in/dagimawi-tamrat/)
 * **Portfolio:** [https://my-portfilio-nine.vercel.app/](https://my-portfilio-nine.vercel.app/)
-* **Email:** `20dtamrat@gmail.com`
+* **GitHub:** [Dagimawi7](https://github.com/Dagimawi7)
+* **Email:** `dtamrat7@gmail.com`
