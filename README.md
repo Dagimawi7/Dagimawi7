@@ -30,7 +30,7 @@ I focus on developing full-stack solutions, specializing in bringing complex app
 | :--- | :--- |
 | **Weather Data Platform (Python ETL)** | Engineered a multi-platform desktop application integrating a **Python** backend with a **React** frontend for fetching, caching, and validating weather data. Implemented a robust **GitHub Actions CI/CD pipeline** for automated cross-platform build and deployment (Windows, Linux, macOS). |
 | **Full-Stack E-commerce System** | Designed and built core backend services handling **data modeling** for products, users, and orders, focusing on scalable system architecture. 
-Created workflow automation scripts and explored **Azure deployment practices** to simulate enterprise-level cloud infrastructure. |
+|Created workflow automation scripts and explored **Azure deployment practices** to simulate enterprise-level cloud infrastructure. |
 | **Hi5 Decor & Rental Website** | Developed all user-facing components using **semantic HTML, structured CSS, and vanilla JavaScript** based on client specifications. Managed the entire **website deployment and hosting environment setup** for the production environment, improving code modularity and maintainability. |
 
 ---
