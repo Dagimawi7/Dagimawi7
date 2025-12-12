@@ -18,9 +18,9 @@ I focus on developing full-stack solutions, specializing in bringing complex app
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, JavaScript, TypeScript, Java, C++, Bash, PowerShell |
+| **Languages** | Python, JavaScript, TypeScript, Java, C++, |
 | **Backend & Web** | **Node.js**, **Express**, **REST APIs**, microservices, React, Secure Coding |
-| **Cloud & Systems** | CI/CD pipelines, GitHub Actions, Git, Azure deployment practices |
+| **Cloud & Systems** | CI/CD pipelines, GitHub Actions, Git, |
 | **Methodologies** | Modular Architecture, Agile/Scrum, System Debugging, Troubleshooting |
 
 ### 📂 Featured Projects (Impactful Full-Stack Development)
